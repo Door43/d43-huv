@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[huv:home|Door43 (huv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-huv|d43-huv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-huv/archive/master.zip|d43-huv.zip]]
+
+**Recent Changes**
+{{changes>ns = huv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/huv|Ethnologue data]]
+
